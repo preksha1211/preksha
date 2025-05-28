@@ -1,2 +1,4 @@
 # preksha
-a code repo for javascript
+a thor sharadha khapra
+code repo for javascript
+au
